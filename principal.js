@@ -19,7 +19,7 @@ let recorrerLista = () =>{
 
 
 
-
+sssaaaa
 let acciones2 = document.getElementById('mostrar_datos2');
 
 let nombreEmpresas2 = [{ticker:'TSLA'},];
