@@ -88,3 +88,5 @@ window.addEventListener('load', recorrerLista);
 window.addEventListener('load', recorrerLista2);
 window.addEventListener('load', recorrerLista3);
 window.addEventListener('load', recorrerLista4);
+
+let asiel = 1; /* Ejemplo */
