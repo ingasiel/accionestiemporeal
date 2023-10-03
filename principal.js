@@ -17,7 +17,8 @@ let recorrerLista = () =>{
     })
 };
 
-
+/*Hola, estoy de incógnito*/
+let luisestuvoaqui = 0;
 
 sssaaaa
 let acciones2 = document.getElementById('mostrar_datos2');
